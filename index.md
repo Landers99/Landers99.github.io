@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Jonathan Landrey Smith — Software Engineer
-description: 
----
+description: **.NET & iOS engineer** — I build reliable, offline-first systems and **SLO-guarded rollouts** that auto-rollback in under 2 minutes.
 
-**.NET & iOS engineer** — I build reliable, offline-first systems and **SLO-guarded rollouts** that auto-rollback in under 2 minutes.
+---
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; margin:12px 0;">
   <a href="https://github.com/Landers99/canary-platform" class="btn">Flagship: Canary Platform</a>
