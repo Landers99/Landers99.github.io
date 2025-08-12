@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Jonathan Landrey Smith — Software Engineer
-description: .NET & iOS engineer. I build reliable, offline-first systems with SLO-guarded rollouts.
+description: 
 ---
 
-# Jonathan Landrey Smith
 **.NET & iOS engineer** — I build reliable, offline-first systems and **SLO-guarded rollouts** that auto-rollback in under 2 minutes.
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; margin:12px 0;">
