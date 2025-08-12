@@ -8,6 +8,7 @@ description: .NET & iOS engineer — I build reliable, offline-first systems and
 <div style="display:flex; gap:12px; flex-wrap:wrap; margin:12px 0;">
   <a href="https://github.com/Landers99/canary-platform" class="btn">Flagship: Canary Platform</a>
   <a href="https://youtu.be/<demo-id>" class="btn">3-min Demo Video (coming Friday)</a>
+  <a href="https://github.com/Landers99/canary-platform/blob/main/work-samples-v0.zip" class="btn">Work Sample</a>
   <a href="https://raw.githubusercontent.com/Landers99/resume/main/Jonathan%20Landrey%20Smith%20Resume-master.pdf" class="btn">Resume (PDF)</a>
   <a href="https://raw.githubusercontent.com/Landers99/canary-platform/main/docs/one-pager.pdf" class="btn">One-Pager</a>
 </div>
